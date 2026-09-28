@@ -44,9 +44,15 @@ The analysis focuses on workforce composition, department and job-role attrition
 
 ## Dashboard
 The Power BI report contains four pages:
-1. Executive Dashboard
-2. Workforce Analysis
-3. Employee Attrition Analysis
+1. ### Executive Dashboard
+![Executive Dashboard](Screenshot%202026-09-27%20212624.png)
+
+2.### Workforce Analysis
+![Workforce Analysis](Screenshot%202026-09-27%20232520.png)
+
+3.### Attrition Analysis
+![Attrition Analysis](Screenshot%202026-09-27%20231846.png)
+
 4. Key Insights
 
 ## Note
